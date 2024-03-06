@@ -4,6 +4,6 @@ The project is centered around data containing medical and demographic informati
 Data Source: https://archive.ics.uci.edu/dataset/878/cirrhosis+patient+survival+prediction+dataset-1
 
 # The Database Design
-The RDBMS PostgreSQL is used to implement and query the data into a database.
+The RDBMS PostgreSQL was used to implement and query the data into a database.
 The database of the liver cirrhosis comprises 3 different tables. A Patient information table, a Histology table, and a chemical composition table.
 Here, the structure and relationships of the database is overviewed:
