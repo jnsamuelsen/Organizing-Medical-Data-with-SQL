@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="164541c1-782f-4cdc-87e1-616b4b2638d7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/cirrhosis_ChemicalComp.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processed_data/cirrhosis_ChemicalComp.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/cirrhosis_Histology.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processed_data/cirrhosis_Histology.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data/cirrhosis_PatientInfo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/processed_data/cirrhosis_PatientInfo.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/split_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/split_data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,22 +22,22 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2dNi8IocEJdLkFSDeqeIOxqjRhz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/jnsam/forever_task/scripts/pseudonymize_customerdata.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jnsam/forever_task/scripts/pseudonymize_customerdata.py&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

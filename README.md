@@ -10,3 +10,4 @@ For developers that want to follow along the project, we here show the structure
 ![Liver Cirrhosis Data Management - Database ER diagram](https://github.com/jnsamuelsen/Organizing-Medical-Data-with-SQL/assets/61964348/7da4fbab-3bed-4915-9328-a1d8b6ee9828)
 
 # Usage
+This is a purely educational project, with the purpose of giving a solid introduction to the process of going from a dataset to organizing a simple relational database, as well as using SQL queries to explore, modify, update and pull data with different queries.

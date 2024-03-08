@@ -1,7 +1,24 @@
 import pandas as pd
 
+
 # Load csv data
 df = pd.read_csv("/home/jnsam/cirrhosis_task/raw_data/cirrhosis.csv")
+
+# Convert fields from float to int, and fill missing values with 0
+df["Stage"].fillna(0, inplace = True)
+df["Stage"] = df["Stage"].apply(int)
+
+df["Cholesterol"].fillna(0, inplace = True)
+df["Cholesterol"] = df["Cholesterol"].apply(int)
+
+df["Copper"].fillna(0, inplace = True)
+df["Copper"] = df["Copper"].apply(int)
+
+df["Triglycerides"].fillna(0, inplace = True)
+df["Triglycerides"] = df["Triglycerides"].apply(int)
+
+df["Platelets"].fillna(0, inplace = True)
+df["Platelets"] = df["Platelets"].apply(int)
 
 # Define new (empty) tables
 PatientInfo = pd.DataFrame()
