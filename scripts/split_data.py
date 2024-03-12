@@ -26,7 +26,7 @@ Histology = pd.DataFrame()
 ChemicalComp = pd.DataFrame()
 
 # Assign the columns that we decided on for each of the three tables (The Histology and ChemicalComp primary keys will be added in SQL)
-PatientInfo = PatientInfo.assign(ID = df["ID"], Age = df["Age"], Sex = df["Sex"], Status = df["Status"], N_Days = df["N_Days"], Stage = df["Stage"])
+PatientInfo = PatientInfo.assign(ID = df["ID"], Age = df["Age"], Sex = df["Sex"], Status = df["Status"], N_Days = df["N_Days"], Stage = df["Stage"], Drug = df["Drug"])
 
 Histology = Histology.assign(ID = df["ID"], Ascites = df["Ascites"], Hepatomegaly = df["Hepatomegaly"], Spiders = df["Spiders"], Edema = df["Edema"])
 
