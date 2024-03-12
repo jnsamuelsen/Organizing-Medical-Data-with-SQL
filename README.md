@@ -7,7 +7,8 @@ Data Source: https://archive.ics.uci.edu/dataset/878/cirrhosis+patient+survival+
 The RDBMS PostgreSQL was used to implement and query the data into a database.
 The database of the liver cirrhosis comprises 3 different tables. A Patient information table, a Histology table, and a chemical composition table.
 For developers that want to follow along the project, we here show the structure and relations of the database (that can be set up in any relational DBMS).
-![Liver Cirrhosis Data Management - Database ER diagram](https://github.com/jnsamuelsen/Organizing-Medical-Data-with-SQL/assets/61964348/7da4fbab-3bed-4915-9328-a1d8b6ee9828)
+![Liver Cirrhosis Data Management - Database ER diagram](https://github.com/jnsamuelsen/Organizing-Medical-Data-with-SQL/assets/61964348/c6f27112-6f0d-4621-a5dc-8f4614394142)
+
 
 # Usage
 This is a purely educational project, with the purpose of giving a solid introduction to the process of going from a dataset to organizing a simple relational database, as well as using SQL queries to explore, modify, update and pull data with different queries.
