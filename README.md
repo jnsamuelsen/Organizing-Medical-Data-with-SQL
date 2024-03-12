@@ -11,4 +11,5 @@ For developers that want to follow along the project, we here show the structure
 
 
 # Usage
-This is a purely educational project, with the purpose of giving a solid introduction to the process of going from a dataset to organizing a simple relational database, as well as using SQL queries to explore, modify, update and pull data with different queries.
+This is a purely educational project, with the purpose of giving a solid introduction to the process of going from a dataset to organizing a simple relational database, as well as using SQL to explore, modify, update and pull data with different queries.
+The repository includes the SQL scripts holding example queries and explanations for the aforementioned tasks.
